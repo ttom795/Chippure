@@ -317,7 +317,7 @@ class CPU:
 
 def main():
     romName = input("Enter rom: ")
-    screen = Renderer(6)
+    screen = Renderer(6)            #Screen scale as a multiple of 128*64
     FPS = 60
     keyboard = Keyboard(screen)
     cpu = CPU(screen, keyboard)
@@ -325,5 +325,4 @@ def main():
     while True:
         time.sleep(1/FPS)
         cpu.cycle()
-
 main()
