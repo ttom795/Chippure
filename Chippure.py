@@ -5,7 +5,7 @@ Copyright (c) 2021, Toby Tomkinson
 All rights reserved.
 
 TODO:
-Sound toggle
+Sound toggle (currently always on)
 Speed adjustment
 Emulator pause
 Save/Load state system
