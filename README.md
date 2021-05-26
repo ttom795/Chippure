@@ -8,8 +8,8 @@ Simply launch the .py file and type the name of the Chip8 ROM you want to launch
 **Keyboard layout:**
 | 1 | 2 | 3 | 4 |
 | - | - | - | - |
-| Q | W | E | R |
-| A | S | D | F |
-| Z | X | C | V |
+| **Q** | **W** | **E** | **R** |
+| **A** | **S** | **D** | **F** |
+| **Z** | **X** | **C** | **V** |
   
 Still some things I'd like to do, but I figured I'd upload the first version sooner rather than later :)
