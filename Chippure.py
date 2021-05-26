@@ -1,7 +1,7 @@
 '''
-Chippure by ttom795
+Chippure by Toby Tomkinson
 
-Copyright (c) 2021, ttom795
+Copyright (c) 2021, Toby Tomkinson
 All rights reserved.
 
 TODO:
